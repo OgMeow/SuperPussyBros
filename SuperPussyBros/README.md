@@ -1,3 +1,5 @@
+Updated version of the game with custom Pussy Financial sprites and settings
+Check the original game below
 
 [![Mario](http://www.garrettjohnson.net/images/fulls/mariofull.png)](http://www.garrettjohnson.net/mario)
 #Mario
